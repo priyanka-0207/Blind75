@@ -1,124 +1,117 @@
 # Blind75
 # Description
-Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted on the Blind platform by a Facebook engineer.
+Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted on the Blind platform by a Facebook engineer. You can find further information at this [link](link).
+The sequence of problems for this repository is followed as per the NeetCode BLIND 75 List. I have included the free links for Leetcode Premium Problems. Solutions to the Problems are in Java.
 
-You can find further information at this link.
+# Problems
 
-The sequence of problems for this repository is followed as per the NeetCode BLIND 75 List.
+## Array & Hashing
+- [x] Contains Duplicate
+- [x] Valid Anagram
+- [x] Two Sum
+- [x] Group Anagrams
+- [x] Top K Frequent Elements
+- [x] Product of Array Except Self
+- [x] Encode and Decode Strings (Leetcode Premium)
+- [x] Longest Consecutive Sequence
 
-I have included the free links for Leetcode Premium Problems.
+## Two Pointers
+- [x] Valid Palindrome
+- [x] 3 Sum
+- [x] Container With Most Water
 
-Solutions to the Problems are in Java.
+## Sliding Window
+- [x] Best Time to Buy and Sell Stock
+- [x] Longest Substring Without Repeating Characters
+- [x] Longest Repeating Character Replacement
+- [x] Minimum Window Substring
 
-Problems
-Array & Hashing
+## Stack
+- [x] Valid Parentheses
 
- Contains Duplicate
- Valid Anagram
- Two Sum
- Group Anagrams
- Top K Frequent Elements
- Product of Array Except Self
- Encode and Decode Strings (Leetcode Premium)
- Longest Consecutive Sequence
-Two Pointers
+## Binary Search
+- [x] Find Minimum in Rotated Sorted Array
+- [x] Search in Rotated Sorted Array
 
- Valid Palindrome
- 3 Sum
- Container With Most Water
-Sliding Window
+## Linked List
+- [x] Reverse a Linked List
+- [x] Merge Two Sorted Lists
+- [x] Reorder List
+- [x] Remove Nth Node From End Of List
+- [x] Detect Cycle in a Linked List
+- [x] Merge K Sorted Lists
 
- Best Time to Buy and Sell Stock
- Longest Substring Without Repeating Characters
- Longest Repeating Character Replacement
- Minimum Window Substring
-Stack
+## Tree
+- [x] Invert Binary Tree
+- [x] Maximum Depth of Binary Tree
+- [x] Same Tree
+- [x] Subtree of Another Tree
+- [x] Lowest Common Ancestor of BST
+- [x] Binary Tree Level Order Traversal
+- [x] Validate Binary Search Tree
+- [x] Kth Smallest Element in a BST
+- [x] Construct Binary Tree from Preorder and Inorder Traversal
+- [x] Binary Tree Maximum Path Sum
+- [x] Serialize and Deserialize Binary Tree
 
- Valid Parentheses
-Binary Search
+## Trie
+- [x] Implement Trie (Prefix Tree)
+- [x] Add and Search Word
+- [x] Word Search II
 
- Find Minimum in Rotated Sorted Array
- Search in Rotated Sorted Array
-Linked List
+## Heap/Priority Queue
+- [x] Find Median from Data Stream
 
- Reverse a Linked List
- Merge Two Sorted Lists
- Reorder List
- Remove Nth Node From End Of List
- Detect Cycle in a Linked List
- Merge K Sorted Lists
-Tree
+## Backtracking
+- [x] Combination Sum
+- [x] Word Search
 
- Invert Binary Tree
- Maximum Depth of Binary Tree
- Same Tree
- Subtree of Another Tree
- Lowest Common Ancestor of BST
- Binary Tree Level Order Traversal
- Validate Binary Search Tree
- Kth Smallest Element in a BST
- Construct Binary Tree from Preorder and Inorder Traversal
- Binary Tree Maximum Path Sum
- Serialize and Deserialize Binary Tree
-Trie
+## Graph
+- [x] Number of Islands
+- [x] Clone Graph
+- [x] Pacific Atlantic Water Flow
+- [x] Course Schedule
+- [x] Number of Connected Components in an Undirected Graph (Leetcode Premium)
+- [x] Graph Valid Tree (Leetcode Premium)
 
- Implement Trie (Prefix Tree)
- Add and Search Word
- Word Search II
-Heap/Priority Queue
+## Advanced Graphs
+- [x] Alien Dictionary (Leetcode Premium)
 
- Find Median from Data Stream
-Backtracking
+## 1-D Dynamic Programming
+- [x] Climbing Stairs
+- [x] House Robber
+- [x] House Robber II
+- [x] Longest Palindromic Substring
+- [x] Palindromic Substrings
+- [x] Decode Ways
+- [x] Coin Change
+- [x] Maximum Product Subarray
+- [x] Word Break
+- [x] Longest Increasing Subsequence
 
- Combination Sum
- Word Search
-Graph
+## 2-D Dynamic Programming
+- [x] Unique Paths
+- [x] Longest Common Subsequence
 
- Number of Islands
- Clone Graph
- Pacific Atlantic Water Flow
- Course Schedule
- Number of Connected Components in an Undirected Graph (Leetcode Premium)
- Graph Valid Tree (Leetcode Premium)
-Advanced Graphs
+## Greedy
+- [x] Maximum Subarray
+- [x] Jump Game
 
- Alien Dictionary (Leetcode Premium)
-1-D Dynamic Programming
+## Intervals
+- [x] Insert Interval
+- [x] Merge Intervals
+- [x] Non-overlapping Intervals
+- [x] Meeting Rooms (Leetcode Premium)
+- [x] Meeting Rooms II (Leetcode Premium)
 
- Climbing Stairs
- House Robber
- House Robber II
- Longest Palindromic Substring
- Palindromic Substrings
- Decode Ways
- Coin Change
- Maximum Product Subarray
- Word Break
- Longest Increasing Subsequence
-2-D Dynamic Programming
+## Math & Geometry
+- [x] Rotate Image
+- [x] Spiral Matrix
+- [x] Set Matrix Zeroes
 
- Unique Paths
- Longest Common Subsequence
-Greedy
-
- Maximum Subarray
- Jump Game
-Intervals
-
- Insert Interval
- Merge Intervals
- Non-overlapping Intervals
- Meeting Rooms (Leetcode Premium)
- Meeting Rooms II (Leetcode Premium)
-Math & Geometry
-
- Rotate Image
- Spiral Matrix
- Set Matrix Zeroes
-Bit Manipulation
-
- Number of 1 Bits
- Counting Bits
- Reverse Bits
- Missing Number
- Sum of Two Integers
+## Bit Manipulation
+- [x] Number of 1 Bits
+- [x] Counting Bits
+- [x] Reverse Bits
+- [x] Missing Number
+- [x] Sum of Two Integers
