@@ -1,7 +1,7 @@
 # Blind75
 # Description
 Blind 75 is a curated list of the top 75 algorithm problems in LeetCode posted on the Blind platform by a Facebook engineer. You can find further information at this [link](link).
-The sequence of problems for this repository is followed as per the NeetCode BLIND 75 List. I have included the free links for Leetcode Premium Problems. Solutions to the Problems are in Java.
+The sequence of problems for this repository is followed as per the LeetCode BLIND 75 List. I have included the free links for Leetcode Premium Problems. Solutions to the Problems are in Java.
 
 # Problems
 
